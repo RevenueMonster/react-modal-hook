@@ -4,6 +4,9 @@
 name: Node.js Package
 
 on:
+  push:
+    branches:
+      - hotfix/peer-deps
   release:
     types: [created]
 
