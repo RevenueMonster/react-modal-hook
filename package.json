@@ -1,5 +1,5 @@
 {
-  "name": "react-modal-hook",
+  "name": "@liho00/react-modal-hook",
   "version": "3.0.0",
   "description": "React hook for showing modal windows",
   "author": "liho00",
@@ -45,8 +45,5 @@
   ],
   "jest": {
     "preset": "ts-jest"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
