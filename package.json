@@ -1,8 +1,8 @@
 {
-  "name": "@liho00/react-modal-hook",
+  "name": "@liholiho/react-modal-hook",
   "version": "3.0.0",
   "description": "React hook for showing modal windows",
-  "author": "liho00",
+  "author": "liholiho",
   "license": "MIT",
   "repository": "git://github.com/liho00/react-modal-hook.git",
   "main": "dist/index.js",
